@@ -1,0 +1,40 @@
+body {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.card {
+  margin: auto;
+  max-width: 650px;
+  padding: 7vh 6vh;
+  align-items: center;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img-fluid {
+  width: 150px;
+  height: 150px;
+}
+.img-star {
+  width: 15%;
+  height: 15%;
+}
+.card-img {
+  padding: 20px 0;
+  width: 40%;
+}
+.card-title p {
+  font-family: "Poppins", sans-serif;
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  font-size: 38px;
+  text-align: center;
+}
+
+.card-text p {
+  font-family: "Poppins", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  text-align: center;
+  padding: 3vh 0;
+}

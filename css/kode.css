@@ -1,0 +1,55 @@
+body {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.card {
+  margin: auto;
+  max-width: 650px;
+  padding: 7vh 6vh;
+  align-items: center;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img-fluid {
+  width: 150px;
+  height: 150px;
+}
+
+.card-img {
+  padding: 20px 0;
+  width: 40%;
+}
+.card-title p {
+  font-family: "Poppins", sans-serif;
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+}
+
+.card-text p {
+  font-family: "Poppins", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  text-align: center;
+  padding: 3vh 0;
+}
+
+.line {
+  height: 30px;
+  width: 2px;
+}
+
+.symbol {
+  height: 30px;
+  width: 30px;
+}
+
+.sesikonsultasi p {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 11px;
+  margin-left: 10px;
+}
